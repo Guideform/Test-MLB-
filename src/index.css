@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    font-size: small;
+}
+
+.bggray {
+    background-color: #d6dadf;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.bgblack {
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.bggrayA {
+    background-color: #d6dadf;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.bgblackA {
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
